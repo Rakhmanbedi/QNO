@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-3xs: 10px;
+  --font-size-6xl: 25px;
+  --font-size-lg-9: 18.9px;
+  --font-size-lgi-2: 19.2px;
+  --font-size-5xl: 24px;
+  --font-size-smi-9: 12.9px;
+  --font-size-smi: 13px;
+  --font-size-mini-8: 14.8px;
+  --font-size-mini-5: 14.5px;
+  --font-size-mini-9: 14.9px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-darkgray-100: #a5a1b2;
+  --color-gray-100: #1f1b2e;
+  --color-gray-200: rgba(255, 255, 255, 0.6);
+  --color-gray-300: rgba(255, 255, 255, 0.8);
+  --color-gray-400: rgba(255, 255, 255, 0.16);
+  --color-gray-500: rgba(255, 255, 255, 0.78);
+  --color-gray-600: rgba(255, 255, 255, 0.96);
+  --color-gray-700: rgba(255, 255, 255, 0.1);
+  --color-gray-800: rgba(255, 255, 255, 0.72);
+  --color-gray-900: rgba(255, 255, 255, 0.48);
+  --color-white: #fff;
+  --color-darkslateblue: #59409e;
+  --color-darkslategray: rgba(59, 58, 62, 0.48);
+  --color-gainsboro: #d9d7e0;
+  --color-crimson: #ea003d;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-5xs: 8px;
+  --br-xs: 12px;
+  --br-76xl-8: 95.8px;
+  --br-3xs: 10px;
+  --br-mini: 15px;
+}
