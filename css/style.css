@@ -3980,6 +3980,7 @@ img {
   height: auto;
   max-width: 100%;
   vertical-align: middle;
+  border-radius: 5px;
 }
 figure {
   margin: 0;
@@ -4257,6 +4258,7 @@ img:nth-child(5) {
 .movie-items .movie-item .mv-img {
   position: relative;
 }
+
 .movie-items .movie-item .mv-img:after {
   box-shadow: inset -5px -50px 100px -15px #000000;
   -webkit-box-shadow: inset -5px -50px 100px -15px #000000;
@@ -8052,9 +8054,8 @@ header .navbar-default .navbar-nav li a i {
   padding: 30px 26px;
   margin: 0 0 0 10px;
   transition: all ease-in-out 0.3s;
-  font-weight: 50;
   line-height: 1;
-  font-size: 25px;
+  font-size: 20px;
   white-space: nowrap;
 }
 header .navbar-default .navbar-nav li.btn a {
